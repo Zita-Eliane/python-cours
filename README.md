@@ -1,5 +1,5 @@
-# python-cours
-
+# Exemples du cours sur Python
+ 
 ## Preparation virtual env
 
 1. Installer la version python3
