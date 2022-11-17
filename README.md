@@ -23,6 +23,6 @@ Executer la commande
 
 Port|Commaande
 --|-------------
-8888| ` jupyter-lab`
-Autre port|` jupyter-lab --port=<port>`
+8888| ` jupyter lab`
+Autre port|` jupyter lab --port=<port>`
 
